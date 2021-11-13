@@ -11,11 +11,11 @@ int main() {
       }else{
          cout<<"1"<<endl;
          int a=0, b=1, c=0;
-         for (int 1=0; 1<=(n=2); 1++);
-         {cout c=a+b;
-                 a=b;
-                 b=c;
-         }
+         for (int i=0; i<=(n=2); i++);
+         { c=a+b;
+           a=b;
+           b=c;
+          cout<<","<<c;
       }
    
    return 0;
