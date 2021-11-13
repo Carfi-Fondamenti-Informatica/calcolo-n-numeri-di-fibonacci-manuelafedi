@@ -10,6 +10,7 @@ int main() {
          
       }else{
          cout<<"1"<<endl;
+         cout<<"1"<<endl;
          int a=1, b=1, c=0;
          for (int i=2; i<=(n); i++);
          { c=a+b;
